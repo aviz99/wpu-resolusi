@@ -12,6 +12,15 @@ RENCANA KONTEN WPU
     ^ Numeral.js
 - Webpack
 - Struktur Data Dasar
+- Golang Frameworks
+ * Ruby
+- UI Design
+- Design System
+- UX Design
+- AI Agent
+- AI Engineer
+- AI Tools
+- AI Prompt
 - PHP Frameworks
   ^ Laravel
 - Interview
